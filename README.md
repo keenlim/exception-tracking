@@ -131,3 +131,4 @@ docker run -p 3000:3000 vite-prod
 ```
 
 Production features: Nginx with security headers, SPA fallback, gzip compression, non-root container user.
+# exception-tracking
